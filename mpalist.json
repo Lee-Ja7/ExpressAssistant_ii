@@ -1,0 +1,62 @@
+[
+  {
+    "name": "学校正门",
+    "type": "校门",
+    "address": "重庆市沙坪坝区大学城中路20号",
+    "description": "主入口，访客登记处",
+    "phone": "",
+    "latitude": 29.6026,
+    "longitude": 106.3105,
+    "level": 1
+  },
+  {
+    "name": "图书馆",
+    "type": "学习",
+    "address": "校园中心广场北侧",
+    "description": "自习、借阅、考研复习",
+    "phone": "023-00000000",
+    "latitude": 29.6017,
+    "longitude": 106.3112,
+    "level": 1
+  },
+  {
+    "name": "第一教学楼",
+    "type": "教学",
+    "address": "校园东区",
+    "description": "公共课主要上课地点",
+    "phone": "",
+    "latitude": 29.6009,
+    "longitude": 106.3098,
+    "level": 2
+  },
+  {
+    "name": "学生食堂",
+    "type": "餐饮",
+    "address": "校园生活区",
+    "description": "一楼大众餐，二楼特色窗口",
+    "phone": "",
+    "latitude": 29.5996,
+    "longitude": 106.3121,
+    "level": 2
+  },
+  {
+    "name": "体育馆",
+    "type": "运动",
+    "address": "校园西区",
+    "description": "篮球、羽毛球、健身",
+    "phone": "",
+    "latitude": 29.5988,
+    "longitude": 106.3085,
+    "level": 2
+  },
+  {
+    "name": "快递驿站",
+    "type": "生活",
+    "address": "学生宿舍区 3 号楼旁",
+    "description": "各快递公司取件点",
+    "phone": "",
+    "latitude": 29.5982,
+    "longitude": 106.313,
+    "level": 3
+  }
+]
