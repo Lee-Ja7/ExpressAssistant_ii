@@ -1,0 +1,18 @@
+{
+  "announcements": [
+    {
+      "id": "20261029-002",
+      "title": "重科小助手公告",
+      "content": "公告正文写在这里。",
+      "publishedAt": "2026-10-29T10:00:00+08:00",
+      "important": true
+    },
+    {
+      "id": "20261020-001",
+      "title": "版本更新通知",
+      "content": "上一条历史公告的正文。",
+      "publishedAt": "2026-10-20T10:00:00+08:00",
+      "important": false
+    }
+  ]
+}
