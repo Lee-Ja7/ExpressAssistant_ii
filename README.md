@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # 重科小助手（校园小助手）
 
 一款面向学生的 Android 校园综合服务工具，基于 Material Design 3 设计，全部数据本地存储，无广告、无统计 SDK、隐私优先。

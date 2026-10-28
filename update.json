@@ -1,0 +1,6 @@
+{
+  "versionCode": 57,
+  "versionName": "2.0.12.d",
+  "apkFileName": "app-release.apk",
+  "releaseNotes": "简化应用更新流程：检查版本后自动下载，校验 APK 完整性后调用系统安装器；保留 Gitee 主源与 GitHub 回退机制。"
+}
